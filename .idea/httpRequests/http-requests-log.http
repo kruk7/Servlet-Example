@@ -1,0 +1,324 @@
+GET http://localhost:8080/ShopTest2/param?elo=99
+Accept: application/json
+
+<> 2020-07-30T122015.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?elo=99
+Accept: application/json
+
+<> 2020-07-30T122013.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?elo=99
+Accept: application/json
+
+<> 2020-07-30T122010.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?elo=99
+Accept: application/json
+
+<> 2020-07-30T122006.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T104030.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T104019.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T104018.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T104017.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T104016.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T104015.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103950.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103947.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103941.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103932.404.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103912.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103907.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103714.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103710.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103656.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103151.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103140.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T103134.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T102135.500.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T102125.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T093348.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T093343.404.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T092152.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T092120.404.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-29T091813.404.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-22T115744.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-22T115615.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio&user-name=kiziak
+Accept: application/json
+
+<> 2020-07-22T115351.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+<> 2020-07-22T115249.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+<> 2020-07-22T115246.404.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+<> 2020-07-22T115212.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+<> 2020-07-22T115103.200.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+<> 2020-07-22T114800.404.html
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=2500&user-secondname=benio
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=&user-secondname=benio
+Accept: application/json
+
+###
+
+GET http://localhost:8080/ShopTest2/param?user-name=Stefan&time-acces=&user-secondname=benio
+Accept: application/json
+
+###
+
